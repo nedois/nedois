@@ -67,8 +67,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nedois&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedois&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nedois&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150"/>
 </div>
 
 <br clear="both"/>
